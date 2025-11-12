@@ -18,7 +18,7 @@ public:
     double divide (double a, double b) const {
         return a / b;
     }
-    
+    // Add my comment
 };
 
 int main() {
